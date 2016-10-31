@@ -3,6 +3,6 @@
 
 Зависимости:
 
-- python 3
+- python 3.5
 - библиотека <a href = "http://docs.python-requests.org/en/master/">requests</a>
 - библиотека <a href = "https://pypi.python.org/pypi/pytz/">pytz</a>
